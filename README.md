@@ -1,1 +1,1 @@
-simple nvim config file
+nvim config file
