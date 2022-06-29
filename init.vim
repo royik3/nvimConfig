@@ -20,8 +20,8 @@ Plug 'tpope/vim-surround' "surrounding ysw
 Plug 'preservim/tagbar'
 Plug 'ryanoasis/vim-devicons'
 Plug 'windwp/nvim-autopairs'
-Plug 'neoclide/coc.nvim'
 Plug 'ap/vim-css-color'
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
 set encoding=UTF-8
 
